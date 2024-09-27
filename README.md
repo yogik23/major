@@ -1,3 +1,3 @@
 # major-bot
 
-sc by ghalibie
+ori https://github.com/Galkurta/Major-BOT
